@@ -19,6 +19,6 @@ This application is to find the weather of the cities around India. It is all re
 
 #### Deployed Link Here :- [https://weather-app-nine-omega-58.vercel.app/] 
 
-## project done by
+## project owner
 
 #### mitali sinha
