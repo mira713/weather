@@ -5,7 +5,7 @@ import { weatherContext } from '../context/context';
 
 const LeftPart = () => {
 
-  let {state, setState} = useContext(weatherContext);
+  let {state, setState}  = useContext(weatherContext);
   let {city,current} = state;
 
   let weekdays = [
