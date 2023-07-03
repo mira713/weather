@@ -1,6 +1,6 @@
 # Weather Application
 
-This application is to find the weather condition of the cities around India.
+This application is to find the weather of the cities around India. It is all responsive and can be used in any device and along with the temperature we can check the humidity, UV rays, population of the city and wind speed. We can also find the weather condition of the city and know if it is rainy, sunny or cloudy day.
 
 ## functions of the application
 
@@ -17,4 +17,4 @@ This application is to find the weather condition of the cities around India.
 
 ## find the deployed link here
 
-#### Deployed Link Here :- [https://weather-app-nine-omega-58.vercel.app/]
+#### Deployed Link Here :- [https://weather-app-nine-omega-58.vercel.app/] 
