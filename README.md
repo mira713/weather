@@ -13,7 +13,7 @@ This application is to find the weather condition of the cities around India.
 
 ## overview of the application
 
-<img alt="weatherapp" src="weather-app/src/asset/weatherPic.png"/>
+<img alt="weatherapp" src="src/asset//weatherPic.png"/>
 
 ## find the deployed link here
 
