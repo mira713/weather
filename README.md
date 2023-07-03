@@ -4,12 +4,12 @@ This application is to find the weather of the cities around India. It is all re
 
 ## functions of the application
 
-### `1. find the weather condition in degree celcius`
-### `2. find the UV rays condition of the city`
-### `3. find wind speed of the city`
-### `4. find the humidity in the city`
-### `5. find the population of the city`
-### `6. get the full forcast for next 7 days.`
+#### `1. find the weather condition in degree celcius`
+#### `2. find the UV rays condition of the city`
+#### `3. find wind speed of the city`
+#### `4. find the humidity in the city`
+#### `5. find the population of the city`
+#### `6. get the full forcast for next 7 days.`
 
 ## overview of the application
 
