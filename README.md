@@ -13,4 +13,4 @@ This application is to find the weather condition of the cities around India.
 
 ## find the deployed link here
 
-#### Deployed Link Here :- [https://weather-app-nine-omega-58.vercel.app/]
+#### Deployed Link Here :- [https://weather-app-nine-omega-58.vercel.app/] 
