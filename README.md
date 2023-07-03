@@ -11,6 +11,10 @@ This application is to find the weather condition of the cities around India.
 #### `5. find the population of the city`
 #### `6. get the full forcast for next 7 days.`
 
+## overview of the application
+
+<img alt="weatherapp" src="./src/asset/weatherPic.png"/>
+
 ## find the deployed link here
 
 #### Deployed Link Here :- [https://weather-app-nine-omega-58.vercel.app/]
